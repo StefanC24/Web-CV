@@ -1,0 +1,36 @@
+h1{
+    color: rgb(46, 21, 21);
+}
+.topics{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(139, 94, 94);
+    height: 50px;
+
+}
+.item{
+    padding: 15px 10px 0 10px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.contact_me{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: bisque;   
+}
+
+.qa {
+    color: rgb(130, 130, 219);
+}
+.solent {
+    color: rgb(130, 130, 219);
+}
+.netcom {
+    color: rgb(130, 130, 219);
+}
+.description{
+    width: 50%;
+}
